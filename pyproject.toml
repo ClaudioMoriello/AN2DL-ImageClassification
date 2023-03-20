@@ -2,7 +2,7 @@
 name = "an2dl-image-classification"
 version = "0.1.0"
 description = ""
-authors = ["Paolo Basso <bassopaolo99@gmail.com>"]
+authors = ["Paolo Basso <bassopaolo99@gmail.com>", "Claudio Moriello <claudiomoriello97@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "an2dl_image_classification"}]
